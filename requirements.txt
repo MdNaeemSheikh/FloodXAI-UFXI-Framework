@@ -9,8 +9,8 @@ lightgbm
 shap
 lime
 alibi
-pycebox
 scipy
+pycebox
 tqdm
 ipython
 jupyter
